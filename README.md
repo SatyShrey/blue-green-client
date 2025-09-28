@@ -16,3 +16,5 @@ How to run project in local machine:
 - 2nd command: "npm run dev" (to start the app)
 - Start the backend server before starting the frontend (recommeneded)
 - repo for backend server code "https://github.com/SatyShrey/blue-green-server"
+
+##################################################################
